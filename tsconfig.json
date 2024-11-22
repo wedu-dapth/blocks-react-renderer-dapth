@@ -10,7 +10,7 @@
     "isolatedModules": true,
     "jsx": "react",
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
-    "moduleResolution": "Bundler",
+    "moduleResolution": "Node",
     "module": "ESNext",
     "noEmit": true,
     "noUnusedLocals": false,
